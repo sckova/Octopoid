@@ -23,35 +23,34 @@ A= Some of the software by Nyx (Team behind Novus), by me Diego Magdaleno or by 
 
 The following software is distributed by Octopoid, some of it comes by default on Mac OS but on older versions.  
 
-Git
-Nano
-Vim 
-Zsh
-Fish
-Bash
-Emacs
-Homebrew
-Homebrew cask
-APT
-Electron
-Python
-Rust
-PIP
-Go Lang
-File Diff 
-Apple XCODE command line tools
-APT
-OpenSSH 
-GPG
-Java
-IntelligentKillal
-IntelligentReboot
-IntelligentShutdown
-InCaseOfEmergency
-bzip
-unrar
-Extractor
-DPKG
-MacPorts
-UpdateChecker
-MirrorMirror
+* APT
+* Apple XCODE command line tools
+* Bash
+* DPKG
+* Electron
+* Emacs
+* Extractor
+* File Diff
+* Fish
+* GPG
+* Git
+* Go Lang
+* Homebrew
+* Homebrew cask
+* InCaseOfEmergency
+* IntelligentKillal
+* IntelligentReboot
+* IntelligentShutdown
+* Java
+* MacPorts
+* MirrorMirror
+* Nano
+* OpenSSH
+* PIP
+* Python
+* Rust
+* UpdateChecker
+* Vim
+* Zsh
+* bzip
+* unrar
